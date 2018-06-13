@@ -1,4 +1,5 @@
-
+// The Composite pattern allows us to arrange objects into tree structures to represent their hierarchy
+// This allows individual and composition of objects to be treated as the same.
 public class Demo {
 	public static void main(String[] args) {
 		

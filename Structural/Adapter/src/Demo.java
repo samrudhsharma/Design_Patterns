@@ -1,4 +1,5 @@
-
+// The adapter pattern acts like a link between different types of interfaces or between legacy code and newly added extensions to the. 
+// It provides a common UI for the user to use instead of having to individually cater to them.
 public class Demo {
 	public static void main(String[] args) {
 		RectangleAdapter rectangle = new RectangleAdapter(new Rectangle());

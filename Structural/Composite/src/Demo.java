@@ -17,3 +17,4 @@ public class Demo {
 		generalM.print();
 	}
 }
+
